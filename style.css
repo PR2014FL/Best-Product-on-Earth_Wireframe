@@ -1,0 +1,24 @@
+.navBar {
+    border: solid #0F4A46;
+    height: 6vh;
+    background-color:#027F5D;
+    display: flex;
+}
+.navLogo {
+    height: 6vh
+}
+.heroContainer {
+    margin-left: 50%;
+    border: 10px solid black;
+    text-transform: capitalize;
+}
+.signLogShop {
+    text-align:center;
+    display:flex
+}
+h2 {
+    text-align: center;
+}
+#headLine {
+    text-align: center;
+}
